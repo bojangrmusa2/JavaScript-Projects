@@ -1,0 +1,39 @@
+#add-rent-view {
+    display: none;
+}
+#edit-delete-view {
+    display: none;
+}
+#edit-rent-view {
+    display: none;
+}
+#users-view-btn {
+    margin-left: 450px;
+}
+
+#new-rent-view-btn {
+   margin-left: 20px;
+    margin-right: 20px;
+}
+
+#users-view-btn:hover {
+    cursor: pointer;
+    background-color: rgba(197, 191, 191, 0.87);
+    color: white;
+}
+#new-rent-view-btn:hover {
+    cursor: pointer;
+    background-color: rgba(197, 191, 191, 0.87);
+    color: white;
+}
+#edit-delete-btn:hover {
+    cursor: pointer;
+    background-color: rgba(197, 191, 191, 0.87);
+    color: white;
+}
+a{
+font-weight: bold;
+}
+.nav-item {
+    font-weight: bold;
+}
